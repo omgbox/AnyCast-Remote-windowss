@@ -28,6 +28,10 @@ Open `http://127.0.0.1:5500` in a browser. Features:
 
 All device config happens at runtime — no hardcoded IPs.
 
+ 
+![alt text](https://github.com/omgbox/AnyCast-Remote-windowss/blob/main/AnyCast.PNG) "anycast video web ui")
+
+
 ## Quick Start (CLI)
 
 Install ffmpeg, then:
