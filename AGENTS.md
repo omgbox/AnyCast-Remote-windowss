@@ -1,4 +1,4 @@
-# AGENTS.md — AnyCast-Ubuntu
+# AGENTS.md — AnyCast-Ubuntu - Vibe Coded with Opencode Big Pickle
 
 ## What this is
 
