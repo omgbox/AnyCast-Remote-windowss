@@ -1,4 +1,6 @@
 # AnyCast DLNA Remote Control
+for Chromecast support, Check binary release or updated version here 
+https://github.com/omgbox/AnyCast-Remote-Chromecast-TV
 
 Python scripts to stream audio/video to an Anycast DLNA dongle, plus a **Flask web UI** for full remote control.
 
